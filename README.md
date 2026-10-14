@@ -21,6 +21,23 @@
 - **师傅端（小程序）**：工单池与匹配得分、接单 / 标记上门 / 上传完工照片、进行中与历史工单、个人工作量与评分统计
 - **管理后台（Web）**：数据看板（核心指标、楼栋热力图、故障趋势）、工单管理（手动派单、异常工单处理）、楼栋房间管理、师傅账号与技能标签管理、故障类型配置、派单权重与超时改派规则配置、用户管理与操作日志
 
+# vs code 环境
+
+确认版本
+node -v
+npm -v
+<img width="391" height="161" alt="image" src="https://github.com/user-attachments/assets/c17ac02b-4bce-4081-b4e8-8236538d881b" />
+
+安装插件
+Vue - Official
+Prettier - Code formatter
+ESLint
+HTML CSS Support
+Chinese (Simplified) Language Pack（中文界面，可选）
+
+
+
+
 ## 快速开始
 
 ```bash
