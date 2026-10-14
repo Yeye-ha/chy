@@ -28,6 +28,7 @@ node -v
 npm -v
 <img width="391" height="161" alt="image" src="https://github.com/user-attachments/assets/c17ac02b-4bce-4081-b4e8-8236538d881b" />
 
+
 安装插件
 Vue - Official
 Prettier - Code formatter
