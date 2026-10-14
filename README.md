@@ -1,6 +1,6 @@
-# campus-dorm-repair-system
 
-基于 Spring Boot 的校园宿舍后勤维修管理系统。
+
+# 基于 Spring Boot 的校园宿舍后勤维修管理系统。
 
 学生微信小程序提交报修，师傅微信小程序接单处理，Vue 管理后台统一调度与数据统计。
 
